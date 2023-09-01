@@ -4,7 +4,7 @@
 <br />
 <br />
 
-Development of the near infinite resources, energy, and knowledge in space offers a unique solution set to many of humanity's most pressing challenges. As a lifelong learner with a passion for science and exploration I enjoy collaborating with diverse science, engineering, and narrative teams to create concept art, visual presentations, animated stories, and graphic assets to improve the way we think about the human condition. 
+Development of the near infinite resources, energy, and knowledge available in space offers a unique solution set to many of humanity's most pressing challenges. As a lifelong learner with a passion for science and exploration I enjoy collaborating with diverse science, engineering, and narrative teams to create concept art, visual presentations, animated stories, and graphic assets to improve the way we think about the human condition. 
 
 Recently I've enjoyed developing 3D assets for long-term personal projects using Arduino and the Raspberry PI, Oculus, Qt and Python/C++, as applied to interactive storytelling, telerobotics, VR, and AI.
  

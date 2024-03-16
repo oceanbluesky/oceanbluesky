@@ -1,5 +1,5 @@
 
-<img align="right" alt="FactuallFiction.com" width="200px" src="http://factualfiction.com/factualfictionstudios/wp-content/uploads/2018/11/Signature_FF_Logo_black.png" /> 
+<img align="left" alt="FactuallFiction.com" width="200px" src="http://factualfiction.com/factualfictionstudios/wp-content/uploads/2018/11/Signature_FF_Logo_black.png" /> 
 
 <br />
 <br />

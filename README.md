@@ -1,11 +1,4 @@
-%%html
-<style>
-    .white {
-        background-color: #FFFFFF;
-    }
-</style>
-
-<div class="white">
+<div style="background-color: #f0f0f5; color: #333; padding: 10px;">
 <img align="left" alt="FactuallFiction.com" width="200px" src="http://factualfiction.com/factualfictionstudios/wp-content/uploads/2018/11/Signature_FF_Logo_black.png" /> 
 
 <br />

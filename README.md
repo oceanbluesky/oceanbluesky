@@ -1,4 +1,11 @@
-<img align="left" alt="FactuallFiction.com" width="200px" src="http://factualfiction.com/factualfictionstudios/wp-content/uploads/2018/11/Signature_FF_Logo_black.png" />
+
+<picture style="float: left; width: 200px;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oceanbluesky/oceanbluesky/62e5af4b266b7764d9e55cf7c45788f77f6aef4a/images/Signature_FF_Logo_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oceanbluesky/oceanbluesky/62e5af4b266b7764d9e55cf7c45788f77f6aef4a/images/Signature_FF_Logo_black.png">
+</picture>
+
+https://raw.githubusercontent.com/oceanbluesky/oceanbluesky/62e5af4b266b7764d9e55cf7c45788f77f6aef4a/images/Signature_FF_Logo_black.png
+
 
 <br />
 <br />

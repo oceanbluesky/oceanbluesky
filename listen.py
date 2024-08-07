@@ -6,7 +6,6 @@
     
 # Audio to listen to at work:
 
-# Jack Carr
 # Listen to robotics coureses 
 
 

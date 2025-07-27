@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/oceanbluesky/oceanbluesky/main/images/Signature_FF_Logo_black.png#gh-light-mode-only" width="200"/>
   <img src="https://raw.githubusercontent.com/oceanbluesky/oceanbluesky/main/images/Signature_FF_Logo_white.png#gh-dark-mode-only" width="200"/>
 </div>
+
 <p>
 The near-infinite resources offered through development of our Solar System provide a unique solution set to many of humanity's most pressing challenges. With an optimistic passion for science, exploration, and storytelling, I enjoy collaborating with research, engineering, and narrative teams to improve the way we bring into being our shared future. 
 </p>
